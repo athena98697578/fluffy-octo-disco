@@ -222,12 +222,12 @@
               "http/1.1"
             ],
             "fingerprint": "unsafe",
-            "serverName": "1vS4OJT43K63u3v80Z.PagEs.Dev",
+            "serverName": "1vS4OJt43k63U3V80Z.pAges.dEv",
             "cipherSuites": "TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256"
           },
           "wsSettings": {
             "host": "1vs4ojt43k63u3v80z.pages.dev",
-            "path": "/vl/A6oXMgjvUNQnGIdi8YxXJzMifaLOXf"
+            "path": "/vl/UyVI5hoBZkXXpbS81LinVPiDN3163x"
           }
         },
         "tag": "proxy",
